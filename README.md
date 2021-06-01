@@ -1,4 +1,4 @@
-# LoanPredictionModeling
+# Loan Prediction Modeling
 A top-up loan, true to its name, is a facility of availing further funds on an existing loan. When you have a loan that has already been disbursed and under repayment and if you need more funds then, you can simply avail additional funding on the same loan thereby minimizing time, effort and cost related to applying again.
 
 2 types of information provided: 
